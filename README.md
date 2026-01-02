@@ -50,13 +50,3 @@ This project demonstrates practical use of **computer vision, AI, and human–co
 ```bash
 py -3.11 -m pip install opencv-python mediapipe pyautogui
 
----
-
-If you want, I can now:
-- Shorten this for **hackathon submission**
-- Rewrite it for **recruiters**
-- Add **screenshots / demo GIF**
-- Turn this project into a **resume bullet**
-
-Just tell me.
-
